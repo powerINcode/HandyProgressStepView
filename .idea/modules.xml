@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HandyProgressStepView.iml" filepath="$PROJECT_DIR$/.idea/HandyProgressStepView.iml" />
       <module fileurl="file://$PROJECT_DIR$/HandyProgressStepView.iml" filepath="$PROJECT_DIR$/HandyProgressStepView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handyprogressstepview/handyprogressstepview.iml" filepath="$PROJECT_DIR$/handyprogressstepview/handyprogressstepview.iml" />
       <module fileurl="file://$PROJECT_DIR$/handyprogressstepview/handyprogressstepview.iml" filepath="$PROJECT_DIR$/handyprogressstepview/handyprogressstepview.iml" />
     </modules>
   </component>
